@@ -1,10 +1,11 @@
 使用python语言编写的jvm
 
 # 开发运行环境
-python3.7.3
+python 3.7.3
 
 # 运行
 python .\java.py -Xjre "C:\Program Files\Java\jre1.8.0_161" java.lang.Object
+
 注：类名需要全限定名
 
 ## 支持命令行参数
